@@ -377,44 +377,44 @@ creditosText: {
 const itemTranslations = {
   "Monumento El León": {
     title: "Lion Monument",
-    description: "Commemorative sculpture and one of Girardot’s best-known urban landmarks.",
+    description: "The Lion Monument is one of Girardot’s most iconic sculptures and an instantly recognizable landmark for anyone passing through the city. Its imposing presence and symbolic design make it a point of interest that captures the attention of visitors and residents alike, evoking strength, identity, and local tradition.",
     longDescription:
-      "The Lion Monument honors the social legacy of the Girardot Lions Club, founded in 1947. In 2019, the roundabout and the sculpture were renovated as part of an urban improvement project, reinforcing its symbolic role in the city.",
+      "This monument is closely linked to the community work of the Girardot Lions Club, an organization founded in 1947 and recognized for its social work on behalf of vulnerable children. In 2019, the roundabout where it stands was completely renovated, giving way to a new version of the monument as part of an urban improvement project that revitalized the area. Thanks to this intervention, El León not only retains its symbolic value but also stands as a representative element of civic memory and the spirit of solidarity that characterizes the Girardot community.",
     address: "Cundinamarca, Girardot, Comuna 1, Granada neighborhood, Carrera 9 and 10 with Calle 20.",
   },
   "Monumento Jorge Eliécer Gaitán": {
     title: "Jorge Eliécer Gaitán Monument",
-    description: "Historic tribute in one of Girardot’s busiest central areas.",
+    description: "This monument honors the memory of Jorge Eliécer Gaitán, one of Colombia’s most influential political figures. Located in one of the busiest areas of downtown Girardot, it has become a landmark for those visiting the area, standing out for its commemorative nature and historical significance.",
     longDescription:
-      "This monument was installed in 1949 near Parque de la Locomotora to honor Jorge Eliécer Gaitán after the events of 1948. Today, it remains a key commemorative point surrounded by commercial life and daily city movement.",
+      "The sculpture was installed in 1949 in front of Parque de la Locomotora as a tribute following the events of 1948, which profoundly shaped the country’s history. Since then, the monument has stood in a central commercial and tourist area, surrounded by constant urban activity, trees, and public gathering spaces. Its presence at this strategic location reinforces its role as a reminder of Gaitán’s legacy and as part of the cultural heritage that connects the city to the nation’s social and political processes.",
     address: "Cundinamarca, Girardot, Comuna 1, downtown, Calle 16 with Carrera 14.",
   },
   "Monumento Danza del Sol": {
     title: "Sun Dance Monument",
-    description: "A welcoming sculpture that reflects Girardot’s warm and vibrant identity.",
+    description: "The Danza del Sol Monument is a symbolic sculpture that welcomes visitors as they enter Girardot, conveying the warm and vibrant energy that characterizes the city. Its dynamic design evokes movement, light, and the town’s tourist appeal, making it a visually striking landmark for visitors.",
     longDescription:
-      "Located at one of the city entrances, the Sun Dance Monument symbolizes tourism, urban beautification, and Girardot’s warm climate. Its position near the main road to Flandes makes it a clear welcome landmark.",
+      "Located at one of the city’s main entrances, along the road to Flandes and near the market square and the Ospina Pérez Bridge, this monument serves both as a tourist attraction and an element of urban beautification. Its presence reinforces the sense of welcome and reflects the warm atmosphere that characterizes Girardot, blending into the landscape as a symbol of hospitality and vitality. Furthermore, its strategic location makes it a landmark for those arriving by road, marking the beginning of the tourist experience within the municipality.",
     address: "Cundinamarca, Girardot, Comuna 2, Puerto Montero, Carrera 7 with Calle 8.",
   },
   "GHL Hotel Club el Puente": {
     title: "GHL Hotel Club el Puente",
-    description: "Comfort-focused hotel with leisure spaces for restful getaways.",
+    description: "GHL Hotel Club El Puente is a traditional-style hotel that combines rest, recreation, and a family-friendly atmosphere, making it ideal for weekend getaways. Its focus is on providing peace and comfort in an environment that invites you to relax from the moment you arrive.",
     longDescription:
-      "GHL Hotel Club el Puente blends comfort and wellness through pools, relaxation areas, and recreational spaces. It is ideal for visitors looking for calm stays near Girardot’s urban and leisure zones.",
+      "The hotel features swimming pools, relaxation areas, fitness facilities, and green spaces that blend seamlessly into its serene surroundings, creating an experience designed to promote well-being. Its location near downtown Girardot provides easy access to recreational activities, restaurants, and tourist attractions in the region, making it a convenient choice for those looking to unwind without straying too far from the city.",
     address: "Kilometer 2, Girardot - Melgar Road, 252410 Girardot, Colombia.",
   },
   "Hotel Los Puentes Comfacundi": {
     title: "Hotel Los Puentes Comfacundi",
-    description: "Central lodging with recreation and wellness for all travel types.",
+    description: "Hotel Los Puentes Comfacundi is a centrally located hotel that combines relaxation, recreation, and wellness, making it ideal for those seeking comfort without leaving the heart of Girardot. Its atmosphere, which strikes a balance between the urban and the laid-back, makes it an attractive option for a wide range of travelers.",
     longDescription:
-      "Close to the Magdalena River and downtown Girardot, this hotel combines practical location, comfortable rooms, pools, and wellness-oriented areas for families, leisure travelers, and events.",
+      "Located near the Magdalena River and the bustling downtown area, the hotel offers comfortable rooms along with swimming pools, wellness areas, and recreational spaces designed for families, leisure travelers, and event attendees. Its strategic location provides easy access to the city’s main attractions, allowing guests to enjoy both city life and moments of relaxation within the hotel’s facilities.",
     address: "Carrera 12 #15-03, Girardot, Cundinamarca 252432, Colombia.",
   },
   "Condominio Campestre El Peñón": {
     title: "El Peñón Country Condominium",
-    description: "Private country-style stay ideal for families and groups.",
+    description: "El Peñón Country Condominium offers home-style accommodations with an emphasis on privacy, relaxation, and a natural setting, making it ideal for families or groups seeking a peaceful and comfortable stay. Its rural setting creates a relaxed atmosphere that invites guests to enjoy their free time without interruptions.",
     longDescription:
-      "This house-style accommodation inside El Peñón offers privacy, spacious areas, and a relaxed atmosphere. It is a strong option for families or groups seeking comfort and independent lodging in a quiet setting.",
+      "The homes within the condominium feature spacious interiors, outdoor areas, and green spaces that allow residents to enjoy outdoor activities in a safe and quiet environment. This option is particularly ideal for those seeking independence, comfort, and the opportunity to spend quality time in a peaceful setting—away from the noise of the city yet with quick access to Girardot’s amenities and attractions.",
     address: "House, Second Sector, Condominio El Peñón, 252432 Girardot, Colombia.",
   },
 };
@@ -711,9 +711,9 @@ const sectionData = {
         title: "Monumento El León",
         image: "img/monumento1.jpg",
         description:
-          "Escultura conmemorativa que representa una parte clave de la memoria cívica de Girardot y se mantiene como ícono urbano de referencia.",
+          "El Monumento El León es una de las esculturas más emblemáticas de Girardot y un referente inmediato para quienes transitan por la ciudad. Su presencia imponente y su diseño simbólico lo convierten en un punto de interés que atrae la atención de visitantes y residentes, evocando fortaleza, identidad y tradición local.",
         longDescription:
-          "El Monumento El León está ligado al trabajo comunitario del Club de Leones de Girardot, organización fundada en 1947 y reconocida por su apoyo social a la infancia vulnerable. En 2019 la glorieta fue remodelada y se inauguró una nueva versión de la obra, integrada a una intervención urbana que mejoró el sector y reforzó su valor simbólico para la ciudad.",
+          "Esta obra está estrechamente ligada al trabajo comunitario del Club de Leones de Girardot, organización fundada en 1947 y reconocida por su labor social en beneficio de la infancia vulnerable. En 2019, la glorieta donde se encuentra fue completamente renovada, dando paso a una nueva versión del monumento integrada dentro de un proyecto de mejoramiento urbano que revitalizó el sector. Gracias a esta intervención, El León no solo conserva su valor simbólico, sino que también se consolida como un elemento representativo de la memoria cívica y del compromiso solidario que caracteriza a la comunidad girardoteña.",
         address:
           "Cundinamarca, Girardot, comuna 1, barrio Granada, carrera 9 y 10 con calle 20.",
         lat: 4.2977457346507935,
@@ -723,9 +723,9 @@ const sectionData = {
         title: "Monumento Jorge Eliécer Gaitán",
         image: "img/monumento2.jpg",
         description:
-          "Monumento histórico de carácter conmemorativo que recuerda a Jorge Eliécer Gaitán en una de las zonas más transitadas del centro.",
+          "Este monumento honra la memoria de Jorge Eliécer Gaitán, una de las figuras políticas más influyentes de Colombia. Ubicado en una de las zonas más concurridas del centro de Girardot, se ha convertido en un punto de referencia para quienes recorren el sector, destacándose por su carácter conmemorativo y su presencia histórica.",
         longDescription:
-          "La escultura de Jorge Eliécer Gaitán fue emplazada en 1949 frente al entorno del Parque de la Locomotora, como homenaje a una de las figuras políticas más influyentes del país tras los hechos de 1948. Hoy permanece en un sector central, comercial y turístico, rodeado de actividad urbana constante, árboles y espacios de encuentro ciudadano.",
+          "La escultura fue instalada en 1949 frente al entorno del Parque de la Locomotora, como homenaje tras los acontecimientos de 1948 que marcaron profundamente la historia del país. Desde entonces, el monumento permanece en un área central, comercial y turística, rodeado de actividad urbana constante, árboles y espacios de encuentro ciudadano. Su permanencia en este punto estratégico refuerza su papel como recordatorio del legado de Gaitán y como parte del patrimonio cultural que conecta a la ciudad con los procesos sociales y políticos de la nación.",
         address: "Cundinamarca, Girardot, comuna 1, centro, calle 16 con carrera 14.",
         lat: 4.300834646289338,
         lng: -74.80930699982211,
@@ -734,9 +734,9 @@ const sectionData = {
         title: "Monumento Danza del Sol",
         image: "img/monumento3.jpg",
         description:
-          "Escultura simbólica que recibe a los visitantes y transmite la identidad cálida y turística de la ciudad.",
+          "El Monumento Danza del Sol es una escultura simbólica que da la bienvenida a quienes ingresan a Girardot, transmitiendo la energía cálida y vibrante que caracteriza a la ciudad. Su diseño dinámico evoca movimiento, luz y la esencia turística del municipio, convirtiéndose en un punto visualmente atractivo para los visitantes.",
         longDescription:
-          "El Monumento Danza del Sol cumple una función turística y de embellecimiento urbano en una de las entradas más importantes de Girardot. Su presencia sobre la vía principal hacia Flandes, cerca de la plaza de mercado y del puente Ospina Pérez, refuerza la idea de bienvenida y evoca el clima cálido que caracteriza a la ciudad.",
+          "Ubicado en una de las entradas principales de la ciudad, sobre la vía hacia Flandes y cerca de la plaza de mercado y el puente Ospina Pérez, este monumento cumple una función tanto turística como de embellecimiento urbano. Su presencia refuerza la idea de bienvenida y refleja el clima cálido que distingue a Girardot, integrándose al paisaje como un símbolo de hospitalidad y vitalidad. Además, su ubicación estratégica lo convierte en un referente para quienes llegan por carretera, marcando el inicio de la experiencia turística dentro del municipio.",
         address: "Cundinamarca, Girardot, comuna 2, Puerto Montero, carrera 7 con calle 8.",
         lat: 4.289201540595745,
         lng: -74.80718504563838,
