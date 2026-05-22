@@ -362,6 +362,16 @@ const staticTranslations = {
   footerLinkGastro: { es: "Gastronomía", en: "Gastronomy" },
   footerLinkCultura: { es: "Cultura", en: "Culture" },
   footerCopy: { es: "© 2026 Turismo Girardot. Todos los derechos reservados.", en: "© 2026 Girardot Tourism. All rights reserved." },
+  creditosTitle: { 
+  es: "Créditos", 
+  en: "Credits" 
+},
+
+creditosText: {
+  es: "El material fotográfico presentado en esta aplicación incluye imágenes de dominio público, recursos de bancos gratuitos como Unsplash y Pexels, y fotografías seleccionadas para ilustrar puntos de interés turístico de Girardot. Cada recurso visual se utiliza exclusivamente con fines informativos y de apoyo a la experiencia del usuario. Parte del texto explicativo y de apoyo fue redactado con la colaboración de Microsoft Copilot, manteniendo un enfoque descriptivo y coherente con la temática del proyecto.",
+  en: "The photographic material featured in this app includes public domain images, resources from free stock photo sites such as Unsplash and Pexels, and photographs selected to illustrate tourist attractions in Girardot. Each visual resource is used exclusively for informational purposes and to enhance the user experience. Some of the explanatory and supporting text was drafted with the assistance of Microsoft Copilot, maintaining a descriptive tone consistent with the project’s theme."
+},
+
 };
 
 const itemTranslations = {
@@ -1379,22 +1389,6 @@ function setupLeafletMap() {
     // Si Leaflet falla, se mantiene automaticamente el fallback visual.
   }
 }
-
-const translations = {
-    es: {
-        creditosTitle: "Créditos de Imágenes",
-        creditosText: "Las imágenes utilizadas en esta aplicación tienen fines ilustrativos y pertenecen a sus respectivos autores. Algunas provienen de bancos de imágenes gratuitos como Unsplash y Pexels, mientras que otras corresponden a recursos públicos relacionados con el turismo de Girardot.",
-        
-        // si ya tienes otros textos, aquí continúan...
-    },
-
-    en: {
-        creditosTitle: "Image Credits",
-        creditosText: "The images used in this application are for illustrative purposes and belong to their respective authors. Some come from free image banks such as Unsplash and Pexels, while others are public resources related to tourism in Girardot.",
-        
-        // otros textos...
-    }
-};
 
 function updateLanguage(lang) {
     document.getElementById("creditosTitle").textContent = translations[lang].creditosTitle;
