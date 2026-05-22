@@ -173,7 +173,7 @@ const gastronomiaData = {
       image: "img/Gastronomia/pantera.jpg",
       shortLabel: "Cócteles y ambiente lounge",
       longDescription:
-        "Pantera Café Bar propone una noche elegante con coctelería, música y una atmósfera envolvente para iniciar o continuar planes nocturnos en Girardot.",
+        "Pantera Café Bar ofrece una experiencia nocturna elegante y moderna, combinando coctelería de autor, música cuidadosamente seleccionada y una atmósfera envolvente que invita a disfrutar de una noche diferente en Girardot; su ambiente íntimo, su propuesta estética y su enfoque en la calidad del servicio lo convierten en un punto ideal para iniciar o continuar los planes nocturnos con estilo y buena energía.",
       address: "Cra. 12 #20-50, Girardot, Cundinamarca.",
       lat: 4.299796720761712,
       lng: -74.80584747116404,
@@ -184,7 +184,7 @@ const gastronomiaData = {
       image: "img/Gastronomia/keops.jpg",
       shortLabel: "Discoteca y energía nocturna",
       longDescription:
-        "Keops Discoteca Bar es una opción vibrante para quienes buscan baile, música y ambiente de fiesta en un formato clásico de discoteca-bar.",
+        "Keops Discoteca Bar es un espacio vibrante que reúne baile, música y un ambiente festivo en un formato clásico de discoteca-bar, ofreciendo noches llenas de energía donde el ritmo, las luces y la vida social se combinan para crear una experiencia animada y divertida, ideal para quienes buscan disfrutar la noche en un entorno dinámico y lleno de movimiento.",
       address: "Cl. 40, Girardot, Cundinamarca.",
       lat: 4.321950290690954,
       lng: -74.81074181349209,
@@ -195,7 +195,7 @@ const gastronomiaData = {
       image: "img/Gastronomia/oasis.jpg",
       shortLabel: "Plan nocturno en zona comercial",
       longDescription:
-        "Discoteca Oasis combina música, pista y ambiente festivo en una ubicación céntrica, ideal para disfrutar la noche con amigos en un entorno dinámico.",
+        "Discoteca Oasis integra música, pista de baile y un ambiente festivo en una ubicación céntrica que facilita el encuentro entre amigos, convirtiéndose en un lugar ideal para quienes desean disfrutar la vida nocturna en un entorno dinámico donde la diversión, la energía y la interacción social se mezclan para crear noches memorables en Girardot.",
       address:
         "Carrera 10 #19-77, 3er piso, Centro Comercial Oasis, Girardot, Cundinamarca.",
       lat: 4.298086821277717,
@@ -212,7 +212,7 @@ const culturaData = {
       image: "img/Cultura/festival_rio.jpg",
       shortLabel: "Celebración cultural ribereña",
       longDescription:
-        "El Festival del Río celebra la relación histórica de Girardot con el Magdalena a través de música, comparsas, encuentros comunitarios y actividades para toda la familia. Es una experiencia cultural que refleja la identidad cálida y festiva de la ciudad.",
+        "El Festival del Río celebra la histórica relación entre Girardot y el río Magdalena mediante música, desfiles, actividades comunitarias y espacios familiares que resaltan la identidad cálida y festiva de la ciudad, consolidándose como un evento cultural que reúne tradición, participación ciudadana y un ambiente alegre que atrae tanto a residentes como a visitantes.",
       address: "Ribera del río Magdalena y corredores culturales de Girardot",
       lat: 4.3018,
       lng: -74.8071,
@@ -226,7 +226,7 @@ const culturaData = {
       image: "img/Cultura/reinado_nacional.jpg",
       shortLabel: "Tradición y agenda de ciudad",
       longDescription:
-        "El Reinado Nacional forma parte de la agenda más representativa de Girardot, integrando actos protocolarios, actividades artísticas y espacios de encuentro que dinamizan el turismo y la vida cultural local durante la temporada.",
+        "El Reinado Nacional forma parte de la agenda más representativa de Girardot, integrando actos protocolarios, actividades artísticas y espacios de encuentro que impulsan el turismo y fortalecen la vida cultural local, convirtiéndose en un evento emblemático que combina tradición, espectáculo y participación comunitaria durante la temporada.",
       address: "Escenarios de eventos y convenciones de Girardot",
       lat: 4.3041,
       lng: -74.8003,
@@ -240,7 +240,7 @@ const culturaData = {
       image: "img/Cultura/semana_santa.jpg",
       shortLabel: "Fe y patrimonio espiritual",
       longDescription:
-        "La Semana Santa en Girardot reúne tradición religiosa, procesiones y actividades de reflexión que convocan a residentes y visitantes. Es una experiencia cultural y espiritual profundamente arraigada en la memoria de la ciudad.",
+        "La Semana Santa en Girardot reúne tradición religiosa, procesiones y actividades de reflexión que convocan a residentes y visitantes, consolidándose como una experiencia cultural y espiritual profundamente arraigada en la memoria de la ciudad, donde la devoción, el patrimonio y la participación comunitaria se entrelazan en un ambiente solemne y significativo.",
       address: "Centro histórico y parroquias de Girardot",
       lat: 4.3048,
       lng: -74.8016,
@@ -256,7 +256,7 @@ const culturaData = {
       image: "img/Cultura/parque_bolivar.jpg",
       shortLabel: "Corazón histórico urbano",
       longDescription:
-        "El Parque Bolívar es uno de los espacios más representativos del centro de Girardot. Su entorno concentra actividad ciudadana, historia urbana y una atmósfera ideal para recorrer el patrimonio local.",
+        "El Parque Bolívar es uno de los espacios más representativos del centro de Girardot, un punto donde convergen actividad ciudadana, historia urbana y una atmósfera ideal para recorrer el patrimonio local, ofreciendo un entorno agradable que combina zonas verdes, tránsito peatonal y elementos culturales que reflejan la identidad del municipio.",
       address: "Cl. 18 #11-11, Girardot, Cundinamarca.",
       lat: 4.297112190737793,
       lng: -74.80714331779092,
@@ -267,7 +267,7 @@ const culturaData = {
       image: "img/Cultura/ruta_muralista.jpg",
       shortLabel: "Arte urbano con identidad",
       longDescription:
-        "La Ruta Muralista invita a descubrir expresiones visuales que narran historias de barrio, memoria local y creatividad contemporánea. Es una caminata cultural muy atractiva para quienes disfrutan del arte en el espacio público.",
+        "La Ruta Muralista invita a descubrir expresiones visuales que narran historias de barrio, memoria local y creatividad contemporánea, convirtiéndose en una caminata cultural muy atractiva para quienes disfrutan del arte en el espacio público, donde cada mural aporta una mirada distinta sobre la identidad, los procesos sociales y la sensibilidad artística de Girardot.",
       address: "Carrera 12, entre calle 13 y calle 14, Girardot, Cundinamarca.",
       lat: 4.294734406788456,
       lng: -74.80942536938478,
@@ -278,7 +278,7 @@ const culturaData = {
       image: "img/Cultura/cas_teatro.jpg",
       shortLabel: "Escena y formación cultural",
       longDescription:
-        "CAS Teatro es un espacio clave para las artes escénicas en Girardot, con actividades culturales, procesos formativos y programación que fortalece la vida artística de la ciudad.",
+        "CAS Teatro es un espacio fundamental para las artes escénicas en Girardot, con programación cultural, procesos formativos y actividades que fortalecen la vida artística de la ciudad, promoviendo la participación comunitaria y ofreciendo un escenario donde convergen teatro, expresión creativa y desarrollo cultural en un ambiente accesible y dinámico.",
       address: "Cl. 21 #11-10, Girardot, Cundinamarca.",
       lat: 4.2996476180945855,
       lng: -74.8049257,
@@ -489,52 +489,52 @@ const itemTranslationsBySlug = {
   pantera_cafe_bar: {
     title: "Pantera Cafe Bar",
     longDescription:
-      "Pantera Cafe Bar delivers an elegant nighttime setting with cocktails and music, ideal to start or continue evening plans in Girardot.",
+      "Pantera Café Bar offers a sophisticated and modern nightlife experience, combining signature cocktails, carefully curated music, and an immersive atmosphere that invites you to enjoy a unique night out in Girardot; its intimate ambiance, stylish design, and commitment to quality service make it the perfect spot to kick off or continue your evening plans in style and with a positive vibe.",
     address: "Cra. 12 #20-50, Girardot, Cundinamarca.",
   },
   keops_discoteca_bar: {
     title: "Keops Discoteca Bar",
     longDescription:
-      "Keops Discoteca Bar is a lively option for dancing and nightlife energy, with a classic disco-bar atmosphere.",
+      "Keops Discoteca Bar is a vibrant venue that combines dancing, music, and a festive atmosphere in a classic nightclub-bar setting, offering energetic nights where rhythm, lights, and socializing come together to create a lively and fun experience—perfect for those looking to enjoy the night in a dynamic, bustling environment.",
     address: "Cl. 40, Girardot, Cundinamarca.",
   },
   discoteca_oasis: {
     title: "Oasis Nightclub",
     longDescription:
-      "Oasis offers music, dance floor, and a vibrant atmosphere in a central location, perfect for enjoying Girardot's nightlife with friends.",
+      "Oasis Nightclub combines music, a dance floor, and a festive atmosphere in a central location that makes it easy to meet up with friends, making it the perfect spot for those who want to enjoy the nightlife in a vibrant setting where fun, energy, and social interaction come together to create unforgettable nights in Girardot.",
     address: "Carrera 10 #19-77, 3rd floor, Oasis Shopping Center, Girardot, Cundinamarca.",
   },
   festival_del_rio: {
     title: "River Festival",
     longDescription:
-      "The River Festival celebrates Girardot's bond with the Magdalena through music, parades, and community activities. It is a cultural experience that reflects the city's warm and festive identity.",
+      "The River Festival celebrates the historic relationship between Girardot and the Magdalena River through music, parades, community activities, and family-friendly events that highlight the city’s warm and festive spirit, establishing itself as a cultural event that brings together tradition, community participation, and a joyful atmosphere that attracts both residents and visitors.",
   },
   reinado_nacional: {
     title: "National Pageant",
     longDescription:
-      "The National Pageant is one of Girardot's most representative events, integrating protocol acts, artistic performances, and gathering spaces that energize local tourism and culture.",
+      "The National Beauty Pageant is one of Girardot’s most iconic events, featuring formal ceremonies, artistic activities, and social gatherings that promote tourism and enrich local cultural life, making it a flagship event that combines tradition, entertainment, and community participation throughout the season.",
   },
   semana_santa_en_girardot: {
     title: "Holy Week in Girardot",
     longDescription:
-      "Holy Week in Girardot brings together religious tradition, processions, and reflection activities for residents and visitors, preserving one of the city's strongest cultural and spiritual expressions.",
+      "Holy Week in Girardot brings together religious tradition, processions, and activities of reflection that draw residents and visitors alike, establishing itself as a cultural and spiritual experience deeply rooted in the city’s memory, where devotion, heritage, and community participation intertwine in a solemn and meaningful atmosphere.",
   },
   parque_bolivar: {
     title: "Bolivar Park",
     longDescription:
-      "Bolivar Park is one of downtown Girardot's most representative public spaces, where urban history, local life, and heritage routes come together.",
+      "Bolívar Park is one of the most iconic spaces in downtown Girardot, a place where community life, urban history, and an ideal atmosphere for exploring the local heritage come together, offering a pleasant setting that combines green spaces, pedestrian traffic, and cultural elements that reflect the town’s identity.",
     address: "Cl. 18 #11-11, Girardot, Cundinamarca.",
   },
   ruta_muralista: {
     title: "Mural Route",
     longDescription:
-      "The Mural Route showcases urban art that tells neighborhood stories, collective memory, and contemporary creativity in Girardot.",
+      "The Mural Route invites visitors to discover visual expressions that tell stories of the neighborhood, local history, and contemporary creativity, making it a highly engaging cultural walking tour for those who appreciate art in public spaces, where each mural offers a unique perspective on Girardot’s identity, social dynamics, and artistic sensibility.",
     address: "Carrera 12, between Calle 13 and Calle 14, Girardot, Cundinamarca.",
   },
   cas_teatro: {
     title: "CAS Theater",
     longDescription:
-      "CAS Theater is a key space for performing arts in Girardot, with cultural activities, training processes, and programming that strengthens local artistic life.",
+      "CAS Teatro is a vital venue for the performing arts in Girardot, offering cultural programming, educational initiatives, and activities that enrich the city’s artistic life, foster community engagement, and provide a space where theater, creative expression, and cultural development come together in an accessible and dynamic environment.",
     address: "Cl. 21 #11-10, Girardot, Cundinamarca.",
   },
 };
@@ -752,9 +752,9 @@ const sectionData = {
         title: "GHL Hotel Club el Puente",
         image: "img/hotel1.jpg",
         description:
-          "Hotel de estilo tradicional con ambiente de descanso y servicios recreativos para escapadas familiares o de fin de semana.",
+          "GHL Hotel Club El Puente es un alojamiento de estilo tradicional que combina descanso, recreación y un ambiente familiar ideal para escapadas de fin de semana. Su propuesta se centra en ofrecer tranquilidad y comodidad en un entorno que invita a relajarse desde el primer momento.",
         longDescription:
-          "GHL Hotel Club el Puente ofrece una experiencia enfocada en comodidad y bienestar, con piscinas, zonas de relajación y espacios deportivos que se integran a su ambiente tranquilo. Es una alternativa práctica para quienes desean descansar cerca del centro de Girardot y conectar fácilmente con planes recreativos de la región.",
+          "El hotel cuenta con piscinas, zonas de relajación, espacios deportivos y áreas verdes que se integran armónicamente a su ambiente sereno, creando una experiencia pensada para el bienestar. Su ubicación cercana al centro de Girardot permite acceder fácilmente a actividades recreativas, restaurantes y atractivos turísticos de la región, convirtiéndolo en una opción práctica para quienes buscan desconectarse sin alejarse demasiado de la ciudad.",
         address: "Kilometro 2 Via Girardot - Melgar, 252410 Girardot, Colombia.",
         lat: 4.292842945058661,
         lng: -74.7855859735035,
@@ -763,9 +763,9 @@ const sectionData = {
         title: "Hotel Los Puentes Comfacundi",
         image: "img/hotel2.jpg",
         description:
-          "Hospedaje central con enfoque en descanso, recreación y bienestar, ideal para quienes buscan comodidad en plena ciudad.",
+          "Hotel Los Puentes Comfacundi es un hospedaje céntrico que combina descanso, recreación y bienestar, ideal para quienes buscan comodidad sin salir del corazón de Girardot. Su ambiente equilibrado entre lo urbano y lo relajado lo convierte en una alternativa atractiva para diferentes tipos de viajeros.",
         longDescription:
-          "Hotel Los Puentes Comfacundi se ubica en una zona estratégica de Girardot, cerca del río Magdalena y del movimiento urbano del centro. Su propuesta combina habitaciones confortables con espacios de recreación, piscinas, bienestar y servicios pensados para viajes familiares, de descanso o eventos.",
+          "Ubicado cerca del río Magdalena y del movimiento comercial del centro, el hotel ofrece habitaciones confortables junto con piscinas, zonas de bienestar y espacios recreativos diseñados para familias, viajeros de descanso o asistentes a eventos. Su ubicación estratégica facilita el acceso a los principales puntos de interés de la ciudad, permitiendo disfrutar tanto de la vida urbana como de momentos de relajación dentro de sus instalaciones.",
         address: "Carrera 12 #15-03, Girardot, Cundinamarca 252432, Colombia.",
         lat: 4.295992224753226,
         lng: -74.80894331906761,
@@ -774,9 +774,9 @@ const sectionData = {
         title: "Condominio Campestre El Peñón",
         image: "img/hotel3.jpg",
         description:
-          "Alojamiento campestre con enfoque en privacidad y descanso, perfecto para estadías tranquilas en grupo o en familia.",
+          "El Condominio Campestre El Peñón ofrece un alojamiento tipo casa con enfoque en privacidad, descanso y ambiente natural, ideal para familias o grupos que buscan una estadía tranquila y cómoda. Su entorno campestre crea una atmósfera relajada que invita a disfrutar del tiempo libre sin interrupciones.",
         longDescription:
-          "Este alojamiento tipo casa dentro del Condominio El Peñón ofrece una experiencia más privada y relajada, con espacios amplios, zona exterior y ambiente campestre. Es una opción muy conveniente para viajes familiares o grupales que buscan comodidad, independencia y tiempo de calidad en un entorno sereno.",
+          "Las viviendas dentro del condominio cuentan con espacios amplios, zonas exteriores y áreas verdes que permiten disfrutar de actividades al aire libre en un ambiente seguro y silencioso. Esta opción es especialmente conveniente para quienes desean independencia, comodidad y la posibilidad de compartir momentos de calidad en un entorno sereno, lejos del ruido urbano pero con acceso rápido a los servicios y atractivos de Girardot.",
         address: "Casa, Segundo Sector, Condominio El Peñón, 252432 Girardot, Colombia.",
         lat: 4.311657882082693,
         lng: -74.76888086854618,
