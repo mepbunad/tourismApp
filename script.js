@@ -362,6 +362,7 @@ const staticTranslations = {
   footerLinkGastro: { es: "Gastronomía", en: "Gastronomy" },
   footerLinkCultura: { es: "Cultura", en: "Culture" },
   footerCopy: { es: "© 2026 Turismo Girardot. Todos los derechos reservados.", en: "© 2026 Girardot Tourism. All rights reserved." },
+  
   creditosTitle: { 
   es: "Créditos", 
   en: "Credits" 
