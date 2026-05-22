@@ -1491,3 +1491,40 @@ body.destinos-open {
   color: #8ea4b7;
   font-size: 0.77rem;
 }
+
+/* ====== SECCIÓN DE CRÉDITOS ====== */
+.creditos-section {
+    background: #f5f5f5;          /* Fondo suave */
+    padding: 40px 20px;
+    margin-top: 40px;
+    border-top: 3px solid #d4d4d4;
+}
+
+.creditos-section h2 {
+    text-align: center;
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.creditos-section p {
+    max-width: 900px;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 1.7;
+    color: #555;
+    text-align: center;
+}
+
+/* Responsivo */
+@media (max-width: 600px) {
+    .creditos-section h2 {
+        font-size: 24px;
+    }
+
+    .creditos-section p {
+        font-size: 16px;
+        padding: 0 10px;
+    }
+}

@@ -342,13 +342,13 @@ const staticTranslations = {
   },
   aboutHighlight1Title: { es: "Clima cálido todo el año", en: "Warm weather all year round" },
   aboutHighlight1Text: {
-    es: "Sol, piscina y actividades al aire libre en cualquier temporada.",
-    en: "Sun, pool, and outdoor activities in every season.",
+    es: "Girardot disfruta de un clima cálido y estable durante los doce meses del año, lo que la convierte en un destino ideal para quienes buscan sol sin importar la temporada. Sus días luminosos invitan a disfrutar de piscinas, caminatas, deportes al aire libre y actividades recreativas en cualquier momento. Esta característica hace que la ciudad sea perfecta tanto para viajes espontáneos como para vacaciones planificadas, ofreciendo siempre un ambiente veraniego que revitaliza y conecta con la naturaleza.",
+    en: "Girardot enjoys a warm and stable climate all year round, making it an ideal destination for those seeking sunshine no matter the season. Its sunny days invite visitors to enjoy swimming pools, hikes, outdoor sports, and recreational activities at any time. This makes the city perfect for both spontaneous trips and planned vacations, always offering a summery atmosphere that revitalizes and connects you with nature.",
   },
   aboutHighlight2Title: { es: "Destino cercano a Bogotá", en: "Close-to-Bogotá getaway" },
   aboutHighlight2Text: {
-    es: "Escapada ideal para fines de semana y planes de descanso.",
-    en: "Perfect for weekend breaks and relaxing plans.",
+    es: "A solo unas horas de la capital, Girardot se ha consolidado como una de las escapadas preferidas por quienes desean desconectarse del ritmo urbano sin viajar demasiado lejos. Su ubicación estratégica permite planear visitas de fin de semana, puentes festivos o incluso viajes de un solo día. Esta cercanía facilita el acceso a su oferta turística, que incluye hoteles, gastronomía, actividades acuáticas y espacios de descanso, convirtiéndola en una opción práctica y atractiva para renovar energía rápidamente.",
+    en: "Just a few hours from the capital, Girardot has established itself as a favorite getaway for those who want to escape the hustle and bustle of city life without traveling too far. Its strategic location makes it ideal for weekend getaways, long weekends, or even day trips. This proximity makes it easy to access its tourist attractions, which include hotels, dining, water activities, and relaxation spots, making it a practical and appealing option for quickly recharging your batteries.",
   },
   monumentosTitle: { es: "MONUMENTOS", en: "MONUMENTS" },
   hotelesTitle: { es: "HOTELES Y HOSPEDAJE", en: "HOTELS AND LODGING" },
@@ -1378,6 +1378,29 @@ function setupLeafletMap() {
   } catch (error) {
     // Si Leaflet falla, se mantiene automaticamente el fallback visual.
   }
+}
+
+const translations = {
+    es: {
+        creditosTitle: "Créditos de Imágenes",
+        creditosText: "Las imágenes utilizadas en esta aplicación tienen fines ilustrativos y pertenecen a sus respectivos autores. Algunas provienen de bancos de imágenes gratuitos como Unsplash y Pexels, mientras que otras corresponden a recursos públicos relacionados con el turismo de Girardot.",
+        
+        // si ya tienes otros textos, aquí continúan...
+    },
+
+    en: {
+        creditosTitle: "Image Credits",
+        creditosText: "The images used in this application are for illustrative purposes and belong to their respective authors. Some come from free image banks such as Unsplash and Pexels, while others are public resources related to tourism in Girardot.",
+        
+        // otros textos...
+    }
+};
+
+function updateLanguage(lang) {
+    document.getElementById("creditosTitle").textContent = translations[lang].creditosTitle;
+    document.getElementById("creditosText").textContent = translations[lang].creditosText;
+
+    // aquí ya tienes los demás textos...
 }
 
 setupHeroCarousel();
